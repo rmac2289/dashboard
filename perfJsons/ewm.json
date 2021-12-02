@@ -1,0 +1,4324 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "8uSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "4:37:45 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:37:45.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.453
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "8-SyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "9:33:10 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:33:10.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.672
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9OSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:01:34 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:01:34.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 19.667
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9eSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:01:54 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:01:54.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 18.314
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9uSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:04:08 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:04:08.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 22.616
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9-SyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:07:27 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:07:27.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.768
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-OSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:07:50 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:07:50.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 20.809
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-eSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:08:09 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:08:09.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Duration": 14.748
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-uSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "1:09:29 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:09:29.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 20.948
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "--SyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "2:42:27 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:42:27.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 24.555
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_OSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "8:33:38 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:33:38.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 2.374
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_eSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "8:33:45 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:33:45.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.72
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_uSyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "8:34:18 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:34:18.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3116",
+          "Duration": 12.226
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_-SyqHwBzrWp3uzAC6tp",
+        "_source": {
+          "Time of Run": "8:35:03 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:35:03.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 22.896
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "AOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:44:51 AM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:44:51.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 15.314
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "AeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:58:43 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:58:43.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.411
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "AuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:00:38 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T16:00:38.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.824
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "A-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:01:00 AM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T16:01:00.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 14.706
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "BOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:19:26 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:19:26.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 3.706
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "BeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:21:09 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:21:09.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.746
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "BuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:12:43 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3117",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:12:43.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 14.466
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "B-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:13:19 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:13:19.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 13.087
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "COSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:02:35 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:02:35.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 4.534
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "CeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:32:57 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:32:57.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.59
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "CuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:33:04 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:33:04.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 4.785
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "C-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:40:59 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:40:59.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.737
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "DOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:33:15 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:33:15.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.997
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "DeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:38:49 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:38:49.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.094
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "DuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:43:14 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:43:14.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.225
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "D-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:43:31 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/DepOps.Form.aspx?WireId=3098",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:43:31.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 15.049
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "EOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:00:51 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:00:51.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Duration": 13.935
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "EeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:03:06 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:03:06.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.495
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "EuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:03:25 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:03:25.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 17.221
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "E-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:03:44 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:03:44.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Duration": 13.89
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "FOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:04:30 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:04:30.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 20.356
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "FeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:04:50 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:04:50.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 18.905
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "FuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:07:21 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:07:21.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 3.84
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "F-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:36:49 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:36:49.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 25.592
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "GOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:37:18 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:37:18.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 26.677
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "GeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:37:27 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:37:27.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 7.018
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "GuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:41:01 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:41:01.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Duration": 19.703
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "G-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:43:06 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:43:06.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.867
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "HOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:35:48 AM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:35:48.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 22.072
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "HeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:35:55 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:35:55.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.996
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "HuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:44:58 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:44:58.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.569
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "H-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:00:16 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T16:00:16.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 18.08
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "IOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:19:31 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:19:31.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.665
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "IeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:20:03 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:20:03.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.711
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "IuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:21:31 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:21:31.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.478
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "I-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:14:26 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:14:26.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.469
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "JOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:16:38 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:16:38.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.455
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "JeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:16:44 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:16:44.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 4.331
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "JuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:16:55 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/WHL.Form.aspx?WireId=3089",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:16:55.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 9.713
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "J-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:38:01 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/WHL.Form.aspx?WireId=3089",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:38:01.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 8.762
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "KOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:41:08 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/WHL.Form.aspx?WireId=3089",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:41:08.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 7.34
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "KeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:09:13 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/WHL.Form.aspx?WireId=3095",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T15:09:13.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 10.926
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "KuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:38:54 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:38:54.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.624
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "K-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:00:12 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:00:12.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.814
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "LOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:02:17 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:02:17.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 22.026
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "LeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:08:37 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:08:37.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 26.18
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "LuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:10:09 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:10:09.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 6.218
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "L-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:34:29 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:34:29.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 4.242
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "MOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:36:22 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:36:22.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 25.25
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "MeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:40:05 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:40:05.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 4.563
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "MuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:40:35 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:40:35.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 21.326
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "M-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:42:01 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:42:01.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 25.011
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "NOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:34:04 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3116",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:34:04.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 16.43
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "NeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:41:51 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:41:51.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.877
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "NuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:43:20 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:43:20.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3116",
+          "Duration": 11.612
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "N-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:43:41 AM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:43:41.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 14.235
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "OOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:44:29 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:44:29.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 15.931
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "OeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:59:04 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3116",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:59:04.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 13.232
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "OuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:59:51 AM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:59:51.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 14.686
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "O-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:20:24 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:20:24.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 13.903
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "POSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:20:49 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:20:49.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.858
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "PeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:02:29 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:02:29.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.88
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "PuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:33:14 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/WHL.Form.aspx?WireId=3089",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:33:14.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 8.833
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "P-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:37:50 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:37:50.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 4.145
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:40:54 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "9/30/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-09-30T23:40:54.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 4.361
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:08:54 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T15:08:54.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.793
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:09:01 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T15:09:01.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 4.814
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Q-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:39:17 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/DepOps.Form.aspx?WireId=3098",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:39:17.000Z",
+          "Origin URL": "/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 21.559
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ROSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:43:09 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T16:43:09.000Z",
+          "Origin URL": "/Treasury.Workspace.aspx",
+          "Duration": 3.084
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ReSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:00:07 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:00:07.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 3.662
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "RuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:00:33 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:00:33.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 18.946
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "R-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:01:13 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:01:13.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 20.946
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "SOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:03:01 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:03:01.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.57
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "SeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:05:16 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T20:05:16.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 23.949
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "SuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:34:23 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:34:23.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.766
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "S-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:34:51 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:34:51.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 19.91
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "TOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:35:22 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:35:22.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3104",
+          "Duration": 26.052
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "TeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:40:11 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/1/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-01T21:40:11.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 4.328
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "TuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:34:39 AM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:34:39.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 19.065
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "T-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:35:24 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:35:24.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 19.888
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "UOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:41:45 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:41:45.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.602
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "UeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:42:07 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3116",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:42:07.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 14.367
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "UuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:44:06 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:44:06.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 17.404
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "U-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:58:49 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:58:49.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 4.104
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "VOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:59:29 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T15:59:29.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3116",
+          "Duration": 20.28
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "VeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "9:01:07 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T16:01:07.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 4.949
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "VuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:19:47 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3117",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:19:47.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 13.988
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "V-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:21:39 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T22:21:39.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.963
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "WOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:12:22 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:12:22.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 3.826
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "WeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:12:27 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:12:27.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 4.184
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "WuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:12:59 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:12:59.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.686
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "W-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:13:43 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:13:43.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.827
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "XOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:14:06 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:14:06.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.947
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "XeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "4:14:34 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/4/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-04T23:14:34.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.918
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "XuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:57:05 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:57:05.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 14.291
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "X-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:57:30 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:57:30.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.562
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "YOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:58:15 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:58:15.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.797
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "YeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:58:22 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:58:22.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 6.165
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "YuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:55:25 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:55:25.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 4.754
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Y-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:56:44 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:56:44.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.567
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ZOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:55:31 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:55:31.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 4.841
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ZeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "1:57:52 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T20:57:52.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.049
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ZuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:04:41 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:04:41.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 3.458
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Z-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:04:47 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:04:47.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.883
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "aOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:06:56 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:06:56.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.843
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "aeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:05:14 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3121",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:05:14.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 25.146
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "auSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:06:06 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:06:06.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 17.166
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "a-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:06:33 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:06:33.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.4
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "bOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:07:26 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:07:26.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.9
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "beSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:05:42 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:05:42.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.594
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "buSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "3:07:19 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/5/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-05T22:07:19.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.312
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "b-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:56:02 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:56:02.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.452
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "cOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:55:47 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3126",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:55:47.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 11.321
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ceSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:55:34 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:55:34.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.849
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "cuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:56:21 AM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:56:21.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 12.776
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "c-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:55:28 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:55:28.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.975
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "dOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:56:43 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:56:43.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.45
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "deSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:57:27 AM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:57:27.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.945
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "duSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:57:35 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:57:35.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.988
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "d-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:57:05 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/6/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-06T15:57:05.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.877
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "eOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:37:59 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/DepOps.Form.aspx?WireId=3131",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:37:59.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 20.162
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "eeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:37:37 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:37:37.000Z",
+          "Origin URL": "/Wires/Treasury.Workspace.aspx",
+          "Duration": 3.852
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "euSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:37:32 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/Treasury.Workspace.aspx",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:37:32.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 4.01
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "e-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:39:56 PM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:39:56.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.433
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:39:29 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:39:29.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.54
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "feSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:38:39 PM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:38:39.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 2.771
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:39:04 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:39:04.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.003
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "f-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:38:16 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:38:16.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.413
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:40:03 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/7/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-07T21:40:03.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 4.946
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "geSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:21:35 AM",
+          "Transaction Label": "SSN",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T15:21:35.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3&(Not.Licensed.For.Production)=",
+          "Duration": 2.479
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "guSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:47 AM",
+          "Transaction Label": "Reject Reasons",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T15:22:47.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 2.461
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "g-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:01 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T15:22:01.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.558
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "hOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:53 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T15:22:53.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=4&(Not.Licensed.For.Production)=",
+          "Duration": 5.086
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "heSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:21:12 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T15:21:12.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.345
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "huSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:24 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T15:22:24.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.954
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "h-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:25:36 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T17:25:36.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.29
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "iOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:22:27 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T17:22:27.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx",
+          "Duration": 6.307
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ieSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:22:34 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T17:22:34.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.801
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "iuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:26:00 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T17:26:00.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.28
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "i-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:25:17 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T17:25:17.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.537
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "jOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:25:54 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/8/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-08T17:25:54.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.793
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "jeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:28 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:22:28.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.345
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "juSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:55 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:22:55.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.628
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "j-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:21:58 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3133",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:21:58.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 10.017
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "kOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:21:40 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:21:40.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 7.951
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "keSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:21:46 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:21:46.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.271
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "kuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:47 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:22:47.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 2.812
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "k-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:22:10 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/12/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-12T15:22:10.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.069
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "lOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:22 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:03:22.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 9.605,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "leSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:04:30 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:04:30.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.905,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "luSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:04:54 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:04:54.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.438,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "l-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:29 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:03:29.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 5.197,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "mOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:05:03 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:05:03.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 5.9,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "meSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:42 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:03:42.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 12.313,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "muSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:04:05 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/13/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-13T15:04:05.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 4.021,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "m-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:17:53 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:17:53.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 11.655,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "nOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:18:15 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:18:15.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.415,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "neSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:18:36 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:18:36.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.221,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "nuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:18:59 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:18:59.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.276,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "n-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:17:33 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:17:33.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 7.464,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "oOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:17:40 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:17:40.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.786,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "oeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:19:08 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/14/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-14T15:19:08.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.851,
+          "OS": null,
+          "Browser": null
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ouSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:41:28 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:41:28.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.56,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "o-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:40:58 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:40:58.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 7.029,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "pOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:42:19 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:42:19.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 7.139,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "peSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:42:09 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:42:09.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.77,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "puSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:41:04 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:41:04.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.358,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "p-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:41:15 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:41:15.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 9.809,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "qOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:41:49 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/15/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-15T15:41:49.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.325,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "qeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:13:36 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:13:36.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.224,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "quSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:12:52 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:12:52.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 2.301,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "q-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:14:26 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:14:26.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.693,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "rOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:13:04 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:13:04.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 5.317,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "reSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:13:18 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:13:18.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 12.015,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ruSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:13:57 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:13:57.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.63,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "r-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:14:17 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/18/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-18T15:14:17.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.962,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "sOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:27:49 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:27:49.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx",
+          "Duration": 8.273,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "seSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:28:52 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:28:52.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.673,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "suSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:27:56 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:27:56.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 5.172,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "s-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:29:14 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:29:14.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.181,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "tOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:28:10 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:28:10.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 12.43,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "teSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:28:29 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:28:29.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.682,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "tuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:29:23 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/19/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-19T14:29:23.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 7.071,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "t-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:15 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:03:15.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 7.812,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "uOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:22 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:03:22.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 5.342,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ueSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:35 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:03:35.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 11.093,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "uuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:03:52 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:03:52.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.446,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "u-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:04:13 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:04:13.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.732,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "vOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:04:35 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:04:35.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.965,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "veSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "8:04:44 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Date of Run": "10/20/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T15:04:44.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.925,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "vuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:30:05 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:30:05.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 2.358,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "v-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:30:16 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:30:16.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 5.168,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "wOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:30:30 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3147",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:30:30.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 12.105,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "weSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:30:48 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:30:48.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.626,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "wuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:31:08 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:31:08.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.551,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "w-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:31:28 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:31:28.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.098,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "10:31:37 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T17:31:37.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 7.245,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:07:45 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:07:45.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx",
+          "Duration": 7.893,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:07:52 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:07:52.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 5.055,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "x-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:08:03 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3299",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:08:03.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 9.473,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:08:20 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:08:20.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 4.285,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:08:42 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:08:42.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.088,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:09:04 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:09:04.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.476,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "y-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:09:12 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:09:12.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.167,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zOSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:10:41 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:10:41.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 10.915,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zeSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:10:48 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:10:48.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.936,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zuSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:11:00 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3299",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:11:00.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 10.783,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "z-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:11:21 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:11:21.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.525,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0OSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:11:44 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:11:44.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.943,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0eSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:12:06 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:12:06.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 4.044,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0uSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "2:12:14 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-21T21:12:14.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 5.8,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:19:34 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:19:34.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 6.419,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1OSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:19:39 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:19:39.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.007,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1eSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:19:50 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3305",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:19:50.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 8.996,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1uSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:20:05 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:20:05.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.264,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1-SyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:20:25 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:20:25.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.566,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2OSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:20:44 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:20:44.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.29,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2eSyqHwBzrWp3uzAC6xp",
+        "_source": {
+          "Time of Run": "7:20:52 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-22T14:20:52.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.888,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "O-RCuXwBzrWp3uzAYq7v",
+        "_source": {
+          "Time of Run": "10:17:41 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/MainFlow.Workspace",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T17:17:41.000Z",
+          "Origin URL": "/Wires",
+          "Duration": 7.128,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Q-RNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:12:24 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:12:24.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 6.962,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "RORNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:12:29 PM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:12:29.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 3.946,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ReRNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:12:40 PM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3331",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:12:40.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 9.304,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "RuRNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:12:56 PM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:12:56.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.82,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "R-RNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:13:15 PM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:13:15.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.213,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "SORNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:13:34 PM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:13:34.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.208,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "SeRNuXwBzrWp3uzAW67o",
+        "_source": {
+          "Time of Run": "2:13:43 PM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T14:13:43.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.886,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "tc8mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:08:50 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:08:50.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 6.689,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ts8mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:08:56 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:08:56.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.205,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "t88mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:09:05 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3331",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:09:05.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 7.501,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "uM8mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:09:22 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:09:22.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 3.111,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "uc8mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:09:42 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:09:42.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 3.275,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "us8mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:10:01 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:10:01.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.344,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "u88mvXwBtqCHZisi29bi",
+        "_source": {
+          "Time of Run": "8:10:09 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:10:09.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.295,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Es9QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:11:22 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:11:22.000Z",
+          "Origin URL": "/Wires/",
+          "Duration": 5.216,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "E89QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:11:27 AM",
+          "Transaction Label": "Main Workspace",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:11:27.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=3",
+          "Duration": 4.03,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "FM9QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:11:34 AM",
+          "Transaction Label": "Open Wire Details",
+          "Destination URL": "/Wires/WHL.Form.aspx?WireId=3391",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:11:34.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 6.116,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Fc9QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:12:38 AM",
+          "Transaction Label": "Wire Parameters",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:12:38.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=1&(Not.Licensed.For.Production)=",
+          "Duration": 2.319,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Fs9QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:12:55 AM",
+          "Transaction Label": "Authority Matrix",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:12:55.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=2&(Not.Licensed.For.Production)=",
+          "Duration": 2.6,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "F89QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:13:13 AM",
+          "Transaction Label": "Email Settings",
+          "Destination URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:13:13.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 3.243,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "GM9QwnwBtqCHZisiJNfX",
+        "_source": {
+          "Time of Run": "8:13:21 AM",
+          "Transaction Label": "Log Out",
+          "Destination URL": "/Wires/AdminSettings.aspx",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:13:21.000Z",
+          "Origin URL": "/Wires/AdminSettings.aspx?MenuSubItemId=5&(Not.Licensed.For.Production)=",
+          "Duration": 6.088,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "ewm"
+      }
+    ],
+    "total": {
+      "relation": "eq",
+      "value": 254
+    },
+    "max_score": 1
+  },
+  "_shards": {
+    "successful": 1,
+    "failed": 0,
+    "skipped": 0,
+    "total": 1
+  },
+  "took": 6,
+  "timed_out": false
+}

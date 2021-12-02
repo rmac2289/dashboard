@@ -1,0 +1,719 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "8:50:31 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T08:50:31.000Z",
+          "Origin URL": "/auth/Login",
+          "Duration": 32.46,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2s89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "9:06:32 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T09:06:32.000Z",
+          "Origin URL": "/auth/Login",
+          "Duration": 32.37,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2889vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "9:07:28 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-20T09:07:28.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 53.631,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3M89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "11:19:50 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T11:19:50.000Z",
+          "Origin URL": "/auth/Login",
+          "Duration": 22.853,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "11:20:47 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T11:20:47.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 55.249,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3s89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "12:53:47 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T12:53:47.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 28.256,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3889vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "12:54:41 PM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T12:54:41.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 52.545,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4M89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "1:06:11 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T13:06:11.000Z",
+          "Origin URL": "/auth/Login",
+          "Duration": 26.305,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "1:07:11 PM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T13:07:11.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 57.863,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4s89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "2:36:27 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T14:36:27.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 28.393,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4889vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "2:37:26 PM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T14:37:26.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 53.893,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "5M89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "2:39:30 PM",
+          "Transaction Label": "Pay Bill",
+          "Destination URL": "/billpay/pay-confirmation",
+          "Description": "User clicks into Bill Pay, selects account, enters amount, and schedules payment.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T14:39:30.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 91.166,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "5c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "2:41:01 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T14:41:01.000Z",
+          "Origin URL": "/auth/Login",
+          "Duration": 28.798,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "5s89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "2:41:59 PM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T14:41:59.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 55.051,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "5889vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "2:42:55 PM",
+          "Transaction Label": "Pay Bill",
+          "Destination URL": "/billpay/pay-confirmation",
+          "Description": "User clicks into Bill Pay, selects account, enters amount, and schedules payment.",
+          "Date of Run": "10/20/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T14:42:55.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 17.893,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "6M89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "10:16:02 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/21/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T10:16:02.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 24.508,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "6c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "10:16:56 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/21/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T10:16:56.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 51.719,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "6s89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "10:17:43 AM",
+          "Transaction Label": "Pay Bill",
+          "Destination URL": "/billpay/pay-confirmation",
+          "Description": "User clicks into Bill Pay, selects account, enters amount, and schedules payment.",
+          "Date of Run": "10/21/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T10:17:43.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 19.703,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "6889vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "7:15:12 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/22/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T07:15:12.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 23.575,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "7M89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "7:15:59 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/22/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T07:15:59.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 45.257,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "7c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "7:16:40 AM",
+          "Transaction Label": "Pay Bill",
+          "Destination URL": "/billpay/pay-confirmation",
+          "Description": "User clicks into Bill Pay, selects account, enters amount, and schedules payment.",
+          "Date of Run": "10/22/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T07:16:40.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 14.231,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "7s89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "8:38:14 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/25/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T08:38:14.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 29.257,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "7889vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "8:39:03 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/25/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-25T08:39:03.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 46.42,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "8M89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "8:04:58 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/26/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:04:58.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 26.373,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "8c89vXwBtqCHZisiTtaw",
+        "_source": {
+          "Time of Run": "8:05:41 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/26/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T08:05:41.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 40.76,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xeRRvnwBzrWp3uzAna5E",
+        "_source": {
+          "Time of Run": "1:36:26 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "https://bofi--qa.lightning.force.com/lightning/page/home",
+          "Description": "User enters login information, clicks login and waits for page load.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:36:26.000Z",
+          "Origin URL": "https://bofi--qa.my.salesforce.com/",
+          "Duration": 15.546,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-c_JvnwBtqCHZisiAtbb",
+        "_source": {
+          "Time of Run": "3:46:53 PM",
+          "Transaction Label": "Approve Wire Transfer",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx",
+          "Description": "User clicks approval decision, selects approved, submits wire and waits for confirmation.",
+          "Date of Run": "10/26/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T15:46:53.000Z",
+          "Origin URL": "/Wires/DepOps.Form.aspx?WireId=3372",
+          "Duration": 30.547,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-s_MvnwBtqCHZisik9YK",
+        "_source": {
+          "Time of Run": "3:50:47 PM",
+          "Transaction Label": "Approve Wire Transfer",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx",
+          "Description": "User opens wire, clicks approval decision, selects approved, writes comment, submits wire and waits for confirmation.",
+          "Date of Run": "10/26/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T15:50:47.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 46.074,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-89CwnwBtqCHZisi-daF",
+        "_source": {
+          "Time of Run": "7:58:48 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "https://bofi--qa.lightning.force.com/lightning/page/home",
+          "Description": "User enters login information, clicks login and waits for page load.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T07:58:48.000Z",
+          "Origin URL": "https://bofi--qa.my.salesforce.com/",
+          "Duration": 23.899,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "BM9HwnwBtqCHZisioNcb",
+        "_source": {
+          "Time of Run": "8:02:27 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/27/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T08:02:27.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 26.077,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Bc9HwnwBtqCHZisioNcb",
+        "_source": {
+          "Time of Run": "8:03:28 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/27/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T08:03:28.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 59.537,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Bs9HwnwBtqCHZisioNcb",
+        "_source": {
+          "Time of Run": "8:04:02 AM",
+          "Transaction Label": "Pay Bill",
+          "Destination URL": "/billpay/pay-confirmation",
+          "Description": "User clicks into Bill Pay, selects account, enters amount, and schedules payment.",
+          "Date of Run": "10/27/2021",
+          "Site": "OLB",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T08:04:02.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 17.424,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "B89JwnwBtqCHZisiptea",
+        "_source": {
+          "Time of Run": "8:05:21 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "/Dashboard",
+          "Description": "User clicks login, enters username & password, and waits for dashboard to load.",
+          "Date of Run": "10/27/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:05:21.000Z",
+          "Origin URL": "/auth/Enrollment/full/",
+          "Duration": 37.927,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "CM9JwnwBtqCHZisiptea",
+        "_source": {
+          "Time of Run": "8:06:15 AM",
+          "Transaction Label": "Send Wire Transfer",
+          "Destination URL": "/Transfers/wire-transfers/multi-factor",
+          "Description": "User navigates to move money, wire transfer, enters info & sends wire, waits for confirmation.",
+          "Date of Run": "10/27/2021",
+          "Site": "OLB",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:06:15.000Z",
+          "Origin URL": "/Dashboard",
+          "Duration": 51.58,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "IM9rwnwBtqCHZisiONcm",
+        "_source": {
+          "Time of Run": "8:42:55 AM",
+          "Transaction Label": "Approve Wire Transfer",
+          "Destination URL": "/Wires/MainFlow.Workspace.aspx",
+          "Description": "User opens wire, clicks approval decision, selects approved, writes comment, submits wire and waits for confirmation.",
+          "Date of Run": "10/27/2021",
+          "Site": "EWM",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:42:55.000Z",
+          "Origin URL": "/Wires/MainFlow.Workspace.aspx?(Not.Licensed.For.Production)=",
+          "Duration": 41.004,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "userflows"
+      }
+    ],
+    "total": {
+      "relation": "eq",
+      "value": 35
+    },
+    "max_score": 1
+  },
+  "_shards": {
+    "successful": 1,
+    "failed": 0,
+    "skipped": 0,
+    "total": 1
+  },
+  "took": 0,
+  "timed_out": false
+}

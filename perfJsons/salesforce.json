@@ -1,0 +1,339 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "x-RmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:57:23 PM",
+          "Transaction Label": "Login",
+          "Destination URL": "https://bofi--qa.lightning.force.com/lightning/page/home",
+          "Description": "Click login and wait for page load.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:57:23.000Z",
+          "Origin URL": "https://bofi--qa.my.salesforce.com/",
+          "Duration": 12.652,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yORmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:57:31 PM",
+          "Transaction Label": "Leads",
+          "Destination URL": "/lightning/o/Lead/list?filterName=Recent",
+          "Description": "Navigate to Leads page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:57:31.000Z",
+          "Origin URL": "/lightning/page/home",
+          "Duration": 6.035,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yeRmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:57:38 PM",
+          "Transaction Label": "Opportunities",
+          "Destination URL": "/lightning/o/Opportunity/list?filterName=Recent",
+          "Description": "Navigate to Opportunities page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:57:38.000Z",
+          "Origin URL": "/lightning/o/Lead/list?filterName=Recent",
+          "Duration": 5.544,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yuRmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:57:44 PM",
+          "Transaction Label": "Opportunity Queues",
+          "Destination URL": "/lightning/o/Opportunity_Queue__c/home",
+          "Description": "Navigate to Opportunity Queues page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:57:44.000Z",
+          "Origin URL": "/lightning/o/Opportunity/list?filterName=Recent",
+          "Duration": 4.93,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "y-RmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:57:50 PM",
+          "Transaction Label": "Accounts",
+          "Destination URL": "/lightning/o/Account/list?filterName=Recent",
+          "Description": "Navigate to Accounts page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:57:50.000Z",
+          "Origin URL": "/lightning/o/Opportunity_Queue__c/home",
+          "Duration": 5.161,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zORmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:58:46 PM",
+          "Transaction Label": "Boarding Forms",
+          "Destination URL": "/lightning/o/Boarding_Form__c/list?filterName=Recent",
+          "Description": "Navigate to Boarding Forms page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:58:46.000Z",
+          "Origin URL": "/lightning/o/Account/list?filterName=Recent",
+          "Duration": 4.737,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zeRmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:58:54 PM",
+          "Transaction Label": "Financial Accounts",
+          "Destination URL": "/lightning/o/Financial_Account_SFDC2__c/list?filterName=Recent",
+          "Description": "Navigate to Financial Accounts page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:58:54.000Z",
+          "Origin URL": "/lightning/o/Boarding_Form__c/list?filterName=Recent",
+          "Duration": 7.121,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zuRmvnwBzrWp3uzAPK5Q",
+        "_source": {
+          "Time of Run": "1:58:59 PM",
+          "Transaction Label": "Contacts",
+          "Destination URL": "/lightning/o/Contact/list?filterName=Recent",
+          "Description": "Navigate to Contacts page.",
+          "Date of Run": "10/26/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-26T13:58:59.000Z",
+          "Origin URL": "/lightning/o/Financial_Account_SFDC2__c/list?filterName=Recent",
+          "Duration": 4.5,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_M9FwnwBtqCHZisiDNaF",
+        "_source": {
+          "Time of Run": "8:00:18 AM",
+          "Transaction Label": "Login",
+          "Destination URL": "https://bofi--qa.lightning.force.com/lightning/page/home",
+          "Description": "Click login and wait for page load.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:00:18.000Z",
+          "Origin URL": "https://bofi--qa.my.salesforce.com/",
+          "Duration": 14.247,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_c9FwnwBtqCHZisiDNaF",
+        "_source": {
+          "Time of Run": "8:00:29 AM",
+          "Transaction Label": "Leads",
+          "Destination URL": "/lightning/o/Lead/list?filterName=Recent",
+          "Description": "Navigate to Leads page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:00:29.000Z",
+          "Origin URL": "/lightning/page/home",
+          "Duration": 8.453,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_s9FwnwBtqCHZisiDNaF",
+        "_source": {
+          "Time of Run": "8:00:35 AM",
+          "Transaction Label": "Opportunities",
+          "Destination URL": "/lightning/o/Opportunity/list?filterName=Recent",
+          "Description": "Navigate to Opportunities page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:00:35.000Z",
+          "Origin URL": "/lightning/o/Lead/list?filterName=Recent",
+          "Duration": 5.252,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "_89FwnwBtqCHZisiDNaF",
+        "_source": {
+          "Time of Run": "8:00:41 AM",
+          "Transaction Label": "Opportunity Queues",
+          "Destination URL": "/lightning/o/Opportunity_Queue__c/home",
+          "Description": "Navigate to Opportunity Queues page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:00:41.000Z",
+          "Origin URL": "/lightning/o/Opportunity/list?filterName=Recent",
+          "Duration": 4.599,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "AM9FwnwBtqCHZisiDNeF",
+        "_source": {
+          "Time of Run": "8:00:49 AM",
+          "Transaction Label": "Accounts",
+          "Destination URL": "/lightning/o/Account/list?filterName=Recent",
+          "Description": "Navigate to Accounts page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:00:49.000Z",
+          "Origin URL": "/lightning/o/Opportunity_Queue__c/home",
+          "Duration": 5.89,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ac9FwnwBtqCHZisiDNeF",
+        "_source": {
+          "Time of Run": "8:00:58 AM",
+          "Transaction Label": "Boarding Forms",
+          "Destination URL": "/lightning/o/Boarding_Form__c/list?filterName=Recent",
+          "Description": "Navigate to Boarding Forms page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:00:58.000Z",
+          "Origin URL": "/lightning/o/Account/list?filterName=Recent",
+          "Duration": 7.806,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "As9FwnwBtqCHZisiDNeF",
+        "_source": {
+          "Time of Run": "8:01:07 AM",
+          "Transaction Label": "Financial Accounts",
+          "Destination URL": "/lightning/o/Financial_Account_SFDC2__c/list?filterName=Recent",
+          "Description": "Navigate to Financial Accounts page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:01:07.000Z",
+          "Origin URL": "/lightning/o/Boarding_Form__c/list?filterName=Recent",
+          "Duration": 7.498,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "A89FwnwBtqCHZisiDNeF",
+        "_source": {
+          "Time of Run": "8:01:14 AM",
+          "Transaction Label": "Contacts",
+          "Destination URL": "/lightning/o/Contact/list?filterName=Recent",
+          "Description": "Navigate to Contacts page.",
+          "Date of Run": "10/27/2021",
+          "Site": "Salesforce",
+          "Environment": "QA",
+          "Run Completed": "2021-10-27T08:01:14.000Z",
+          "Origin URL": "/lightning/o/Financial_Account_SFDC2__c/list?filterName=Recent",
+          "Duration": 5.534,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "salesforce"
+      }
+    ],
+    "total": {
+      "relation": "eq",
+      "value": 16
+    },
+    "max_score": 1
+  },
+  "_shards": {
+    "successful": 1,
+    "failed": 0,
+    "skipped": 0,
+    "total": 1
+  },
+  "took": 2,
+  "timed_out": false
+}

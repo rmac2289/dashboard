@@ -1,0 +1,4098 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Hs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:05:58 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:05:58.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 9.359
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "H8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:06:55 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:06:55.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 10.084
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "IM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:18:13 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:18:13.000Z",
+          "Origin URL": "/Business",
+          "Duration": 8.557
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ic-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:18:35 AM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:18:35.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 15.537
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Is-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:59:19 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:59:19.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 6.012
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "I8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:38 PM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:38:38.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 16.203
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "JM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:49:21 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:49:21.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.914
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Jc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:49:31 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:49:31.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 7.487
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Js-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:50:15 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:50:15.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 14.227
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "J8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:05:03 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:05:03.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.577
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "KM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:05:33 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:05:33.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.643
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Kc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:05:54 PM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:05:54.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 13.462
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ks-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:08:10 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:08:10.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 10.843
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "K8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:08:25 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:08:25.000Z",
+          "Origin URL": "/",
+          "Duration": 10.757
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "LM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:09:45 PM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:09:45.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 11.835
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Lc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:52 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:17:52.000Z",
+          "Origin URL": "/",
+          "Duration": 11.137
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ls-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:36 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:17:36.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 10.681
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "L8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:59:00 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:59:00.000Z",
+          "Origin URL": "/",
+          "Duration": 10.145
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "MM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:23 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:37:23.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 10.388
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Mc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:32 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:37:32.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 6.445
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ms-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:46 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:37:46.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 11.926
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "M8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:49:44 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:49:44.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 10.687
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "NM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:49:59 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:49:59.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 11.488
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Nc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:04:26 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:04:26.000Z",
+          "Origin URL": "/",
+          "Duration": 10.122
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ns-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:09:26 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:09:26.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.65
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "N8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:18:02 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:18:02.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 8.983
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "OM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:59:32 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:59:32.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 11.255
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Oc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:59 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:37:59.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 10.194
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Os-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:48:51 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:48:51.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 12.074
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "O8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:49:08 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:49:08.000Z",
+          "Origin URL": "/",
+          "Duration": 12.33
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "PM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:50:35 PM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:50:35.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 13.279
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Pc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:09:11 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:09:11.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 10.609
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ps-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:58:45 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:58:45.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 10.062
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "P8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:59:11 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T17:59:11.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.414
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:01:02 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T18:01:02.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 15.516
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Qc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:01:27 AM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T18:01:27.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 17.025
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Qs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:36:54 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:36:54.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 13.478
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Q8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:11 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:37:11.000Z",
+          "Origin URL": "/",
+          "Duration": 11.744
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "RM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:14 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T22:38:14.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 13.259
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Rc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:04:10 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:04:10.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 11.802
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Rs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:04:39 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:04:39.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 11.228
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "R8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:04:51 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:04:51.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 9.781
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "SM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:05:19 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:05:19.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 12.726
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Sc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:08:36 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:08:36.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.027
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ss-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:08:45 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:08:45.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 7.133
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "S8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "4:08:59 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/4/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-04T23:08:59.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 11.005
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "TM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:26:44 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:26:44.000Z",
+          "Origin URL": "/",
+          "Duration": 12.136
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Tc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:26:26 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:26:26.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 12.224
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ts-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:27:21 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:27:21.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 11.871
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "T8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:27:36 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:27:36.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 11.22
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "UM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:26:55 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:26:55.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 8.679
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Uc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:27:07 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:27:07.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 9.309
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Us-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:27:51 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:27:51.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 13.471
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "U8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:28:18 AM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/7/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-07T18:28:18.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 19.094
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "VM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:09:55 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/1/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-01T17:09:55.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 7.084
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Vc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:15:54 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:15:54.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 8.521
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Vs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:16:20 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:16:20.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 11.21
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "V8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:15:13 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:15:13.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 12.073
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "WM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:15:43 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:15:43.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 10.42
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Wc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:17:00 AM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:17:00.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 17.473
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ws-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:15:30 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:15:30.000Z",
+          "Origin URL": "/",
+          "Duration": 12.113
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "W8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:16:06 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:16:06.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.45
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "XM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:16:36 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T15:16:36.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 13.833
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Xc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:31:52 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:31:52.000Z",
+          "Origin URL": "/",
+          "Duration": 11.307
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Xs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:32:16 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:32:16.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 8.258
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "X8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:31:37 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:31:37.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 12.11
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "YM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:32:05 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:32:05.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.961
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Yc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:32:29 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:32:29.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 11.381
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Ys-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:32:44 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:32:44.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 12.16
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Y8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:33:20 PM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:33:20.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 14.326
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ZM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:32:58 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/8/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-08T22:32:58.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.545
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Zc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:27:19 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:27:19.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.739
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Zs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:26:57 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:26:57.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 10.163
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Z8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:26:26 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:26:26.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 12.351
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "aM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:27:35 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:27:35.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 12.779
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ac-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:26:44 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:26:44.000Z",
+          "Origin URL": "/",
+          "Duration": 12.766
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "as-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:27:51 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:27:51.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 13.567
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "a8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:28:17 AM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:28:17.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 19.423
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "bM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:27:08 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:27:08.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 7.367
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "bc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:54:02 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:54:02.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.533,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "bs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:53:50 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:53:50.000Z",
+          "Origin URL": "/",
+          "Duration": 16.901,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "b8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:53:29 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:53:29.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 12.995,
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "cM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:56:52 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:56:52.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 8.032,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "cc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:57:07 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:57:07.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 11.589,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "cs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:57:41 AM",
+          "Transaction Label": "OLB Login",
+          "Destination URL": "https://onlinebanking.axosbank.com/auth/Enrollment/full/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:57:41.000Z",
+          "Origin URL": "https://www.axosbank.com/Partners#",
+          "Duration": 12.882,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "c8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:54:14 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:54:14.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 7.324,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "dM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:57:22 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T15:57:22.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.752,
+          "Browser": null
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "dc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:03:17 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:03:17.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 6.445
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ds-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:02:56 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:02:56.000Z",
+          "Origin URL": "/",
+          "Duration": 9.843
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "d8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:03:29 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:03:29.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.9
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "eM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:03:08 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:03:08.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 8.952
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ec-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:02:42 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:02:42.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 14.594
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "es-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:03:41 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:03:41.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 10.099
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "e8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:50 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:17:50.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.953,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:01 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:17:01.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 10.965,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:18:05 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:18:05.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 11.067,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:15 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:17:15.000Z",
+          "Origin URL": "/",
+          "Duration": 9.787,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "f8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:28 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:17:28.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.951,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:17:38 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:17:38.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 7.34,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "10:18:20 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T17:18:20.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.789,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:09:40 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:09:40.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 11.421,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "g8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:09:55 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:09:55.000Z",
+          "Origin URL": "/",
+          "Duration": 9.712,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "hM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:10:08 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:10:08.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 10.073,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "hc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:10:29 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:10:29.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.472,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "hs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:10:17 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:10:17.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 6.768,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "h8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:10:43 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:10:43.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 11.691,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "iM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "12:10:58 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-12T19:10:58.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.641,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ic-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:31:10 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:31:10.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 4.956,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "is-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:31:04 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:31:04.000Z",
+          "Origin URL": "/",
+          "Duration": 7.777,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "i8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:31:42 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:31:42.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.333,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "jM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:31:16 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:31:16.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 4.945,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "jc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:30:55 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:30:55.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 4.282,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "js-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:31:25 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:31:25.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 7.673,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "j8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "9:31:34 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-13T04:31:34.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 8.363,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "kM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:06:23 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:06:23.000Z",
+          "Origin URL": "/",
+          "Duration": 7.935,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "kc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:06:48 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:06:48.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 8.202,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ks-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:06:13 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:06:13.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=054BCEC861364478B36B3E4363489CEA",
+          "Duration": 15.046,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "k8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:07:22 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "https://www.axosbank.com/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:07:22.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 14.328,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "lM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:07:06 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:07:06.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 17.217,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "lc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:07:37 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:07:37.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 13.302,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ls-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:06:35 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-12T22:06:35.000Z",
+          "Origin URL": "/",
+          "Duration": 10.914,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "l8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:07:29 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:07:29.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=8695349719BF40C1B0FA1C338AB46433",
+          "Duration": 6.274,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "mM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:07:42 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:07:42.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 6.136,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "mc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:07:49 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:07:49.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.662,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ms-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:07:58 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:07:58.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.395,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "m8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:08:16 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:08:16.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.709,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "nM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:07:36 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:07:36.000Z",
+          "Origin URL": "/",
+          "Duration": 5.332,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "nc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "11:08:07 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/12/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T06:08:07.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 8.832,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ns-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:01:03 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:01:03.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 9.451,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "n8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:00:49 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:00:49.000Z",
+          "Origin URL": "/",
+          "Duration": 8.919,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "oM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:01:52 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "https://www.axosbank.com/Business/Small-Business-Banking",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:01:52.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 15.092,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "oc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:02:12 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:02:12.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 15.631,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "os-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:00:38 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:00:38.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=79E5C638429446E5959DF2C7BAB52554",
+          "Duration": 19.115,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "o8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:01:16 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:01:16.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 8.843,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "pM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:01:33 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/13/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-13T15:01:33.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 15.216,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "pc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:13:13 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:13:13.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=FF90DE4632F54C7CB0531207475EF50F",
+          "Duration": 14.67,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ps-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:14:25 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "https://www.axosbank.com/Business/Small-Business-Banking",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:14:25.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 13.104,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "p8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:13:52 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:13:52.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 7.158,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "qM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:13:26 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:13:26.000Z",
+          "Origin URL": "/",
+          "Duration": 8.824,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "qc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:14:41 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:14:41.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 13.586,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "qs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:13:42 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:13:42.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 11.976,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "q8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:14:09 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/14/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-14T15:14:09.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 15.266,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "rM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:50 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:37:50.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=DE24BFDFEA04454CA31ECB4300D8E155",
+          "Duration": 7.773,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "rc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:03 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:38:03.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 6.046,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "rs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:37:56 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:37:56.000Z",
+          "Origin URL": "/",
+          "Duration": 5.314,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "r8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:10 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:38:10.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.795,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "sM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:18 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:38:18.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.436,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "sc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:37 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:38:37.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.706,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ss-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:38:28 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/15/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-15T22:38:28.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 8.666,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "s8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:10:44 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:10:44.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=962E21155F04400091607CA452B22C9F",
+          "Duration": 15.845,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "tM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:11:40 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:11:40.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 14.2,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "tc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:11:11 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:11:11.000Z",
+          "Origin URL": "/",
+          "Duration": 12.456,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ts-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:10:57 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:10:57.000Z",
+          "Origin URL": "/",
+          "Duration": 8.302,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "t8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:11:24 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:11:24.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 8.716,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "uM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:12:10 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:12:10.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 12.715,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "uc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "8:11:56 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "https://www.axosbank.com/Business/Small-Business-Banking",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T15:11:56.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 14.323,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "us-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:17:30 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:17:30.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=EC24B37A6FDC4A549CA08745F79F633D",
+          "Duration": 6.361,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "u8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:18:07 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:18:07.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 8.304,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "vM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:17:49 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:17:49.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.799,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "vc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:17:58 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:17:58.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.373,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "vs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:18:16 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:18:16.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.766,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "v8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:17:36 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:17:36.000Z",
+          "Origin URL": "/",
+          "Duration": 5.411,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "wM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:17:42 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Date of Run": "10/18/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-18T22:17:42.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 5.017,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "wc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:01 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:01.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=238F124D01C44060AE49B7E47C87856A",
+          "Duration": 6.457,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ws-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:21 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:21.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 6.002,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "w8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:30 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:30.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.566,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:14 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:14.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 6.172,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:07 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:07.000Z",
+          "Origin URL": "/",
+          "Duration": 5.51,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "xs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:40 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:40.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 9.158,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "x8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:18:49 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/19/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-19T21:18:49.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.942,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:00:32 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:00:32.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=D7FD1D7544EB4F43A08E259061AFC317",
+          "Duration": 7.409,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "yc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:00:38 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:00:38.000Z",
+          "Origin URL": "/",
+          "Duration": 5.403,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ys-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:00:45 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:00:45.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 5.605,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "y8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:00:51 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:00:51.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.256,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zM-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:00:59 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:00:59.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.483,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zc-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:01:09 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:01:09.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 8.805,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "zs-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "3:01:17 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-20T22:01:17.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.635,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "z8-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:46:25 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:46:25.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=46DE6136A4C847AD8646D8643210EF9B",
+          "Duration": 6.036,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0M-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:46:31 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:46:31.000Z",
+          "Origin URL": "/",
+          "Duration": 5.337,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0c-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:46:38 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:46:38.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 5.824,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "0s-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:46:44 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:46:44.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.242,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "08-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:46:52 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:46:52.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.413,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1M-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:47:01 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:47:01.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 8.491,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1c-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "6:47:10 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/20/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-21T01:47:10.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.595,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "1s-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:12:56 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:12:56.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=69F3C5BAC2CA4950B327119AEF816093",
+          "Duration": 8.898,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "18-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:13:02 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:13:02.000Z",
+          "Origin URL": "/",
+          "Duration": 5.39,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2M-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:13:09 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:13:09.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 5.621,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2c-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:13:15 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:13:15.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.505,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "2s-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:13:24 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:13:24.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.644,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "28-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:13:34 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:13:34.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 9.047,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3M-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "5:13:42 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/21/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T00:13:42.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.56,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3c-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:13 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:13.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=B92CDD129DBB493A9626BF6E3FB211BA",
+          "Duration": 6.418,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "3s-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:19 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:19.000Z",
+          "Origin URL": "/",
+          "Duration": 5.382,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "38-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:26 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:26.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 6.125,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4M-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:32 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:32.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 4.944,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4c-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:41 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:41.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.379,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "4s-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:50 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:50.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 8.24,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "48-wqHwBtqCHZisiOtUa",
+        "_source": {
+          "Time of Run": "2:22:59 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/22/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-22T21:22:59.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 7.622,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "PORIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:06:50 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:06:50.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 8.777,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "PeRIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:07:03 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:07:03.000Z",
+          "Origin URL": "/",
+          "Duration": 10.012,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "PuRIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:07:13 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:07:13.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 8.524,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "P-RIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:07:21 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:07:21.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 5.845,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QORIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:07:32 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:07:32.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.357,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QeRIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:07:44 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:07:44.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 10.407,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "QuRIuXwBzrWp3uzAH66A",
+        "_source": {
+          "Time of Run": "2:07:57 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/25/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-25T14:07:57.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 11.904,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "d88cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:57:23 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://www.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:57:23.000Z",
+          "Origin URL": "https://www.google.com/",
+          "Duration": 9.98,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "eM8cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:57:33 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/Personal",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:57:33.000Z",
+          "Origin URL": "/",
+          "Duration": 8.334,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "ec8cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:57:42 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:57:42.000Z",
+          "Origin URL": "/Personal",
+          "Duration": 8.053,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "es8cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:57:50 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:57:50.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 6.795,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "e88cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:58:01 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:58:01.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 9.723,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fM8cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:58:14 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:58:14.000Z",
+          "Origin URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 10.818,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fc8cvXwBtqCHZisiK9Z_",
+        "_source": {
+          "Time of Run": "7:58:26 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "Prod",
+          "Run Completed": "2021-10-26T07:58:26.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 10.77,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "fs8evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "7:59:33 AM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T07:59:33.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=2BBAA45C8361443FA6C298B7627F94C8",
+          "Duration": 9.818,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "f88evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "7:59:42 AM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T07:59:42.000Z",
+          "Origin URL": "/",
+          "Duration": 6.848,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gM8evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "7:59:52 AM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "/Personal",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T07:59:52.000Z",
+          "Origin URL": "/",
+          "Duration": 8.715,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gc8evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "8:00:01 AM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T08:00:01.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=nov20RWCHPersonal",
+          "Duration": 6.072,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "gs8evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "8:00:15 AM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T08:00:15.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=nov20RWCHPersonal",
+          "Duration": 11.949,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "g88evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "8:00:26 AM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "https://www.axosbank.com/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T08:00:26.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/Business?utm_content=nov20RWCHPersonal&products[]=DDFH",
+          "Duration": 9.881,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "hM8evXwBtqCHZisiLdbW",
+        "_source": {
+          "Time of Run": "8:00:39 AM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T08:00:39.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 11.055,
+          "OS": "Windows",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "8s9ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:20:43 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:20:43.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=653DEF827D094DDAAB5BE4C73DDD1337",
+          "Duration": 6.235,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "889ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:20:50 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:20:50.000Z",
+          "Origin URL": "/",
+          "Duration": 5.468,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9M9ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:20:57 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:20:57.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 5.877,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9c9ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:21:03 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:21:03.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.296,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "9s9ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:21:12 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:21:12.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 7.716,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "989ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:21:22 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:21:22.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 9.528,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "-M9ovXwBtqCHZisiRtZu",
+        "_source": {
+          "Time of Run": "4:21:31 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/26/2021",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-26T16:21:31.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 8.185,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Gc9TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:15:51 PM",
+          "Transaction Label": "Home",
+          "Destination URL": "https://axossitecore.uat.axosbank.com/",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:15:51.000Z",
+          "Origin URL": "https://www.bing.com/?toWww=1&redig=442452277C86447582F56A4120BDF791",
+          "Duration": 6.565,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Gs9TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:15:58 PM",
+          "Transaction Label": "Personal",
+          "Destination URL": "/",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:15:58.000Z",
+          "Origin URL": "/",
+          "Duration": 5.481,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "G89TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:16:05 PM",
+          "Transaction Label": "Personal Get Started",
+          "Destination URL": "https://www.axosbank.com/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:16:05.000Z",
+          "Origin URL": "https://axossitecore.uat.axosbank.com/",
+          "Duration": 6.312,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "HM9TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:16:12 PM",
+          "Transaction Label": "Personal Level Up",
+          "Destination URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:16:12.000Z",
+          "Origin URL": "/Personal/Checking/Rewards-Checking?utm_content=septemberrewardshero",
+          "Duration": 5.686,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Hc9TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:16:21 PM",
+          "Transaction Label": "Business",
+          "Destination URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:16:21.000Z",
+          "Origin URL": "/recommended-for-you?products[]=DDFH&utm_content=septemberrewardshero",
+          "Duration": 8.344,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "Hs9TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:16:31 PM",
+          "Transaction Label": "Business Get Started",
+          "Destination URL": "/Business/Small-Business-Banking",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:16:31.000Z",
+          "Origin URL": "/Business?utm_content=septemberrewardshero&products[]=DDFH",
+          "Duration": 9.511,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      },
+      {
+        "_score": 1,
+        "_type": "_doc",
+        "_id": "H89TwnwBtqCHZisiLtdn",
+        "_source": {
+          "Time of Run": "3:16:40 PM",
+          "Transaction Label": "Partners",
+          "Destination URL": "/Partners",
+          "Description": null,
+          "Date of Run": "10/27/2021",
+          "Site": "axosbank",
+          "Environment": "UAT",
+          "Run Completed": "2021-10-27T15:16:40.000Z",
+          "Origin URL": "/Business/Small-Business-Banking",
+          "Duration": 8.341,
+          "OS": "Linux",
+          "Browser": "Chrome"
+        },
+        "_index": "axosbank"
+      }
+    ],
+    "total": {
+      "relation": "eq",
+      "value": 233
+    },
+    "max_score": 1
+  },
+  "_shards": {
+    "successful": 1,
+    "failed": 0,
+    "skipped": 0,
+    "total": 1
+  },
+  "took": 1,
+  "timed_out": false
+}
